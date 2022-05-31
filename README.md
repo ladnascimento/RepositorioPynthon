@@ -1,2 +1,2 @@
 # RepositorioPynthon
- Repositório de versionamento
+ Repositório de versionamento de código
